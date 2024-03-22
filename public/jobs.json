@@ -1,4 +1,19 @@
 [
+
+  {
+    "id": 1,
+    "companyName": "Uthando company",
+    "jobTitle": "Data Analytic",
+    "companyLogo": "/images/one.png",
+    "minPrice": "20",
+    "maxPrice": "60",
+    "salaryType": "Yearly",
+    "jobLocation": "Cape Town",
+    "postingDate": "2023-11-03",
+    "experienceLevel": "Any experience",
+    "employmentType": "Freelancer",
+    "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
+  },
     {
       "id": 1,
       "companyName": "Linear company",
@@ -162,6 +177,48 @@
       "maxPrice": "120",
       "salaryType": "Yearly",
       "jobLocation": "Boston",
+      "postingDate": "2022-10-05",
+      "experienceLevel": "Intership",
+      "employmentType": "Freelancer",
+      "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
+    },
+    {
+      "id": 6,
+      "companyName": "Tesla group",
+      "jobTitle": "DevOps Engineer",
+      "companyLogo": "/images/Tesla.jpg",
+      "minPrice": "80",
+      "maxPrice": "120",
+      "salaryType": "Yearly",
+      "jobLocation": "Cape Town",
+      "postingDate": "2022-10-05",
+      "experienceLevel": "Intership",
+      "employmentType": "Temporary",
+      "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
+    },
+    {
+      "id": 6,
+      "companyName": "Drip group",
+      "jobTitle": "Data Engineer",
+      "companyLogo": "/images/drip.png",
+      "minPrice": "80",
+      "maxPrice": "120",
+      "salaryType": "Yearly",
+      "jobLocation": "Durban",
+      "postingDate": "2022-10-05",
+      "experienceLevel": "Intership",
+      "employmentType": "Temporary",
+      "description": "Mollit in laborum tempor Lorem incididunt irure. Aute eu ex ad sunt. Pariatur sint culpa do incididunt eiusmod eiusmod culpa. laborum tempor Lorem incididunt."
+    },
+    {
+      "id": 6,
+      "companyName": "Bathu group",
+      "jobTitle": "AWS Engineer",
+      "companyLogo": "/images/bathu.png",
+      "minPrice": "80",
+      "maxPrice": "120",
+      "salaryType": "Yearly",
+      "jobLocation": "Durban",
       "postingDate": "2022-10-05",
       "experienceLevel": "Intership",
       "employmentType": "Temporary",
